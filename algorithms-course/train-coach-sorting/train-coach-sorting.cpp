@@ -20,7 +20,7 @@ using namespace std;
 int main() {
     //file read and write    
     FILE* file;
-    freopen_s(&file,"lab1in.txt", "r", stdin);
+    freopen_s(&file,"trackAinput.txt", "r", stdin);
     freopen_s(&file,"lab1out_mine.txt", "w", stdout);
 
     // initialize vars
