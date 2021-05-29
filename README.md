@@ -1,2 +1,3 @@
 # projects
-collection of projects either assigned or chosen 
+
+Collection of assigned/chosen projects in various languages
